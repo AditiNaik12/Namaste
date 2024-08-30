@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.parcel-cache/
+.parcelrc/
+.postcsssrc/
+babel.config.js/
+jest.config.js/
+
